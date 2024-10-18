@@ -1,0 +1,53 @@
+{
+  "settings": [
+    {
+      "key": "Activate Windows",
+      "value": true
+    },
+    {
+      "key": "Remove Edge",
+      "value": true
+    },
+    {
+      "key": "Remove Defender",
+      "value": false
+    },
+    {
+      "key": "Add update",
+      "value": true
+    },
+    {
+      "key": "Add regedit",
+      "value": true
+    }
+  ],
+  "updates": {
+    "win10_x64": {
+      "files": [
+        {
+          "file_id1": "i6g1e23u1obim32f09e6n",
+          "file_name1": "SSU-19041.4840-x64.cab?rlkey=sjzatoxhhhsq1t9gzxragyq9k&st=ee43n40e&dl=1"
+        },
+        {
+          "file_id2": "qz5wk0yqpsoqvhnr0xsb1",
+          "file_name2": "Windows10.0-KB5015684-x64.cab?rlkey=gze8ves9wgk0m6116dcps61ar&st=r2ogd42q&dl=1"
+        },
+        {
+          "file_id3": "2i6gqs4920jo27n0uhhmp",
+          "file_name3": "Windows10.0-KB5041582-x64.cab?rlkey=pul76x0ey61fgp78fy2lrdgk6&st=br7r7g9p&dl=1"
+        }
+      ]
+    },
+    "win11_x64": {
+      "files": [
+        {
+          "file_id1": "cw54i5rl1mfnf5p30llpl",
+          "file_name1": "Windows11.0-KB5043080-x64.msu?rlkey=7w8srq53u930j0lw4jlwetx5v&st=qmovzpxg&dl=1"
+        }
+      ]
+    }
+  },
+  "language": {
+    "key": "vi"
+  }
+}
