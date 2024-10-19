@@ -1,6 +1,3 @@
-![LSX presents](https://github.com/xLSX285/EnterpriseG/assets/129116755/4957cf9b-42fe-4e70-9a33-d3450cbc9a52)
-<div align="center">
-
 ## [Download Latest Version](https://github.com/hocdev2024/EnterpriseG/archive/refs/heads/main.zip)
 # Read the Important section of this README thoroughly before proceeding.
 </div>
