@@ -55,7 +55,7 @@ Các bản dựng được hỗ trợ:
 - Không hỗ trợ ARM64 hoặc 32 Bit. Dự án này chỉ bao gồm X86_64/AMD64 (chỉ hỗ trợ PC 64 Bit)
 <div align="center">
 
-# Important
+# Quan trọng
 DỰ ÁN NÀY KHÔNG LÀM GIẢM BỀN WINDOWS. Nó thay thế Windows Pro bằng Windows Enterprise G SKU được nhiều cơ quan chính phủ sử dụng. Enterprise G đi kèm với một số chính sách sản phẩm được áp dụng theo mặc định, chẳng hạn như phần mềm diệt vi-rút Windows Defender bị vô hiệu hóa và giảm dữ liệu đo từ xa
 
 Ví dụ, trong khi một số bộ phận của chính phủ Trung Quốc sử dụng phiên bản Windows này, họ vẫn có những sửa đổi bổ sung không dành cho công chúng.
