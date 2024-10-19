@@ -13,10 +13,10 @@
 
 [![Quy trình Reconstruct Enterprise G](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=n-bu1me3Vc4 "EnterpriseG Reconstruction Process")
 
-`All you need to provide is:`
-- Windows 10/11 Pro en-US install.wim image without updates (XXXXX.1)
+`Tất cả những gì bạn cần cung cấp là:`
+- Windows 10/11 Pro en-US install.wim image không có bản cập nhật (XXXXX.1)
 
-> [**UUP Dump**](https://uupdump.net/) can create a Windows Pro ISO in en-US without updates (untick the **Include updates (Windows converter only)** box).
+> [**UUP Dump**](https://uupdump.net/) có thể tạo Windows Pro ISO ở định dạng en-US mà không cần cập nhật (bỏ chọn Include updates).
 > 
 **Hot tip:** If you build a fresh ISO using UUP Dump, set `AppsLevel` to **1** inside `ConvertConfig.ini` on build 22621 and later, this will only install Windows Security and the Microsoft Store as apps preinstalled! Additionally, on 26100 and later, setting `SkipEdge` to **1** wont preinstall Microsoft Edge or Webview.
 > 
