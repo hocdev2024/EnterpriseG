@@ -26,8 +26,8 @@ Các bản dựng được hỗ trợ:
 
 `Cách bắt đầu:`
 1. Tải 1 trong các bản ISO bên trên rồi để vào thư mục chạy ứng dụng
-2. Adjust config.ini if necessary
-3. Run **Build.ps1** in PowerShell as Administrator
+2. Chỉnh sửa options.json nếu bạn am hiểu hoặc thiết lập bằng ứng dụng
+3. Chạy **EnterpriseG.exe** nó sẽ tìm kiếm các tệp iso và hỏi bạn có muốn giải nén không
 
 > Run this command in Powershell if Build.ps1 is not starting. **Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass**
 > 
