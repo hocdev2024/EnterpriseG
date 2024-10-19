@@ -29,14 +29,10 @@ Các bản dựng được hỗ trợ:
 2. Chỉnh sửa options.json nếu bạn am hiểu hoặc thiết lập bằng ứng dụng
 3. Chạy **EnterpriseG.exe** nó sẽ tìm kiếm các tệp iso và hỏi bạn có muốn giải nén không
 
-> Run this command in Powershell if Build.ps1 is not starting. **Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass**
-> 
-Once the reconstruction process is complete, you will find the new `install.wim` file in the same folder where you placed the original install.wim file. (**Please note:** your original `install.wim` file has been overwritten and cannot be restored!)
-To proceed, you can create a new ISO using AnyBurn or any similar software. If you have already created a bootable Windows installation USB drive, simply copy the new `install.wim` file and replace the existing one located in the `sources` directory of your USB drive.
 >
 <div align="center">
   
-# Config.ini
+# options.json
 
 </div>
 
