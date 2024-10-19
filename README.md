@@ -56,13 +56,9 @@ Các bản dựng được hỗ trợ:
 <div align="center">
 
 # Important
-I'm not actively maintaining this project. I'll push some commits here and there to ensure support for future Windows builds and some optimizations, that's it. This project requires some knowledge. No support will be provided.
+DỰ ÁN NÀY KHÔNG LÀM GIẢM BỀN WINDOWS. Nó thay thế Windows Pro bằng Windows Enterprise G SKU được nhiều cơ quan chính phủ sử dụng. Enterprise G đi kèm với một số chính sách sản phẩm được áp dụng theo mặc định, chẳng hạn như phần mềm diệt vi-rút Windows Defender bị vô hiệu hóa và giảm dữ liệu đo từ xa
 
-THIS PROJECT DOES NOT DEBLOAT WINDOWS. It replaces Windows Pro with the Windows Enterprise G SKU used by various government entities. Enterprise G comes with some product policies applied by default, such as a disabled Windows Defender antivirus and reduced telemetry.
+Ví dụ, trong khi một số bộ phận của chính phủ Trung Quốc sử dụng phiên bản Windows này, họ vẫn có những sửa đổi bổ sung không dành cho công chúng.
 
-While some parts of the Chinese government, for example, use this exact edition of Windows, they have additional modifications that are not available to the general public.
-
-If you're actually interested in running the exact same version as them, you're better off Googling "Windows 10 Enterprise G CMGE_V2020-L.1207" – there are leaks circulating around.
-
-You shouldn't be using this daily, unless you really want to. This is just for fun.
+Nếu bạn thực sự muốn chạy phiên bản giống hệt như họ, tốt hơn hết bạn nên tìm kiếm trên Google "Windows 10 Enterprise G CMGE_V2020-L.1207" – hiện đang có thông tin rò rỉ
 </div>
