@@ -41,10 +41,10 @@ Các bản dựng được hỗ trợ:
 - `true`: Kích hoạt Windows thông qua KMS38
 - `false`: Windows sẽ không được kích hoạt
 
-## RemoveEdge
+## Remove Edge
 
-- `true`: Bring your own web browser `Default`
-- `false`: Microsoft Edge remains installed
+- `true`: Mang theo trình duyệt web của riêng bạn
+- `false`: Microsoft Edge vẫn được cài đặt
 
 <div align="center">
   
