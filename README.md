@@ -8,7 +8,7 @@
 
 <div align="center">
   
-# How to reconstruct Enterprise G
+# Làm thế nào để Reconstruct Enterprise G
 </div>
 
 [![EnterpriseG Reconstruction Process](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=n-bu1me3Vc4 "EnterpriseG Reconstruction Process")
