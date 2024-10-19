@@ -1,5 +1,5 @@
 ## [Download Latest Version](https://github.com/hocdev2024/EnterpriseG/archive/refs/heads/main.zip)
-# Đọc kỹ phần quan trọng của README này trước khi tiếp tục
+# Đọc kỹ phần quan trọng của README này
 </div>
 
 <div align="center">
