@@ -36,10 +36,10 @@ Các bản dựng được hỗ trợ:
 
 </div>
 
-## ActivateWindows
+## Activate Windows
 
-- `true`: Activate Windows via KMS38 `Default`
-- `false`: Windows wont be activated
+- `true`: Kích hoạt Windows thông qua KMS38
+- `false`: Windows sẽ không được kích hoạt
 
 ## RemoveEdge
 
