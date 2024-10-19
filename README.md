@@ -11,7 +11,7 @@
 # Làm thế nào để Reconstruct Enterprise G
 </div>
 
-[![EnterpriseG Reconstruction Process](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=n-bu1me3Vc4 "EnterpriseG Reconstruction Process")
+[![Quy trình Reconstruct Enterprise G](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=n-bu1me3Vc4 "EnterpriseG Reconstruction Process")
 
 `All you need to provide is:`
 - Windows 10/11 Pro en-US install.wim image without updates (XXXXX.1)
