@@ -2,12 +2,13 @@
   "searching_iso": " Searching for ISO files in the current directory...",
   "iso_not": " No ISO file found in current directory",
   "select_menu": " Please select: ",
-  "invalid_select" : "Invalid selection. Skip",
+  "invalid_select" : " Invalid selection. Skip",
   "extract_finish": " Extracted successfully",
   "mount_ok": " Mount successful",
   "mount_not": " Unmount successful",
   "file_loading": " Loading files: ",
   "file_loaded": " File downloaded: ",
   "7z_not": " 7z.exe not found in folder 'files'",
-  "creat_iso": " ISO created successfully"
+  "creat_iso": " ISO created successfully",
+  "build_support": " Supported builds: 17763, 19041, 22000, 22621, 26100"
 }

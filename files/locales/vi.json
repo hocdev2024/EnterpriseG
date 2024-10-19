@@ -2,12 +2,13 @@
   "searching_iso": " Đang tìm kiếm các file ISO trong thư mục hiện tại...",
   "iso_not": " Không tìm thấy file ISO nào trong thư mục hiện tại",
   "select_menu": " Vui lòng chọn: ",
-  "invalid_select" : "Lựa chọn không hợp lệ. Bỏ qua",
+  "invalid_select" : " Lựa chọn không hợp lệ. Bỏ qua",
   "extract_finish": " Giải nén thành công",
   "mount_ok": " Mount thành công",
   "mount_not": " Unmount thành công",
   "file_loading": " Đang tải tệp: ",
   "file_loaded": " Đã tải tệp: ",
   "7z_not": " Không tìm thấy 7z.exe trong thư mục 'files'",
-  "creat_iso": " Đã tạo ISO thành công"
+  "creat_iso": " Đã tạo ISO thành công",
+  "build_support": " Các build được hỗ trợ: 17763, 19041, 22000, 22621, 26100"
 }
