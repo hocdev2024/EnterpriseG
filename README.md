@@ -48,12 +48,11 @@ Các bản dựng được hỗ trợ:
 
 <div align="center">
   
-# Known "issues" with Enterprise G reconstruction
+# "Các vấn đề" đã biết với việc Reconstruct Enterprise G
 </div>
 
-- Inplace upgrade might get undone/reverted on some builds of Windows (e.g 19041 -> 22000/22621.) (looking for a fix)
-- Windows might not be activated on 26100 installs due to the new setup in 24H2 (Workaround: Use previous setup or activate windows using MAS afterwards)
-- No ARM64 or 32 Bit support. This project only covers X86_64/AMD64 (64 Bit PCs support only)
+- Windows có thể không được kích hoạt trên 26100 bản cài đặt do thiết lập mới trong 24H2 (Giải pháp thay thế: Sử dụng thiết lập trước đó hoặc kích hoạt Windows bằng MAS sau đó)
+- Không hỗ trợ ARM64 hoặc 32 Bit. Dự án này chỉ bao gồm X86_64/AMD64 (chỉ hỗ trợ PC 64 Bit)
 <div align="center">
 
 # Important
