@@ -10,5 +10,7 @@
   "file_loaded": " Đã tải tệp: ",
   "7z_not": " Không tìm thấy 7z.exe trong thư mục 'files'",
   "creat_iso": " Đã tạo ISO thành công",
-  "build_support": " Các build được hỗ trợ: 17763, 19041, 22000, 22621, 26100"
+  "build_support": " Các build được hỗ trợ: 17763, 19041, 22000, 22621, 26100",
+  "install_not": " Tệp install.wim không tồn tại. Vui lòng kiểm tra lại",
+  "retry_again": " Bạn có muốn thử lại không? (yes/no): "
 }

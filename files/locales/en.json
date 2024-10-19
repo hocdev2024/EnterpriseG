@@ -10,5 +10,7 @@
   "file_loaded": " File downloaded: ",
   "7z_not": " 7z.exe not found in folder 'files'",
   "creat_iso": " ISO created successfully",
-  "build_support": " Supported builds: 17763, 19041, 22000, 22621, 26100"
+  "build_support": " Supported builds: 17763, 19041, 22000, 22621, 26100",
+  "install_not": " The install.wim file does not exist. Please check again",
+  "retry_again": " Would you like to try again? (yes/no): "
 }
